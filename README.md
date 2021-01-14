@@ -4,3 +4,4 @@
 * Sean Alling (Teaching Assistant)
 * Shawn Hundal
 * Avery Turk
+* Katherine Tran
