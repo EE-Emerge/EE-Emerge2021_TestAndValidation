@@ -6,3 +6,4 @@
 * Avery Turk
 * Katherine Tran
 * Gisselle Ibarra
+* Victoria Liera
