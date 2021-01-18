@@ -7,3 +7,4 @@
 * Katherine Tran
 * Gisselle Ibarra
 * Victoria Liera
+* Vanessa Liera
