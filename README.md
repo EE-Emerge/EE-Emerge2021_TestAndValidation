@@ -8,3 +8,4 @@
 * Gisselle Ibarra
 * Victoria Liera
 * Vanessa Liera
+* Devon Liu
