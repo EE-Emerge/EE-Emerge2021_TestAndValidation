@@ -2,10 +2,8 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
-* Shawn Hundal
+* Victoria Liera (Co-Team Lead)
+* Vanessa Liera (co-Team Lead)
 * Avery Turk
 * Katherine Tran
 * Gisselle Ibarra
-* Victoria Liera
-* Vanessa Liera
-* Devon Liu
